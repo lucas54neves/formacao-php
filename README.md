@@ -1,2 +1,2 @@
-# php-primeiros-passos
-Repositório para o curso de Introdução ao PHP da Alura
+# formacao-php
+Repositório para os cursos da formação de Desenvolvedor PHP da Alura
